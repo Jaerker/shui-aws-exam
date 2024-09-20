@@ -1,0 +1,6 @@
+[submodule "shui-api"]
+	path = shui-api
+	url = https://github.com/Jaerker/shui-api.git
+[submodule "shui-client"]
+	path = shui-client
+	url = https://github.com/Jaerker/shui-client.git
