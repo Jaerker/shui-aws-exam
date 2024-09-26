@@ -14,7 +14,7 @@
 
 ## update - PUT
   
-![Skiss över updateMessage endpoint](./assets/update-messages.png)
+![Skiss över updateMessage endpoint](./assets/update-message.png)
 
 ## create - POST
   
