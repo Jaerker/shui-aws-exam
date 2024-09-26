@@ -11,3 +11,7 @@ Mina endpoints testades i Insomnia, och när jag såg till att anropen fungerade
 ## Frontend
 
 Jag använder mig av React med TS, vilket är betydligt bättre än JS för min del. Här tog jag skisserna vi fick från figma och valde att utgå från de helt och hållet.
+
+### Slutresultat
+
+Jag är nöjd med det jag gjort, men om jag hade kunnat göra om det och på lite längre tid så hade jag planerat om filsystemet lite, dvs jag hade byggt om och strukturerat anropen lite annorlunda i klienten. Men förutom det så är jag glad över att allt verkar fungera, även om det kanske inte var så inbjudande för ögonen ;) 
